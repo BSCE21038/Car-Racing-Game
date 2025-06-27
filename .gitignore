@@ -1,0 +1,29 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Uu]serSettings/
+
+# Visual Studio / Rider / VSCode
+*.csproj
+*.sln
+*.unityproj
+.vscode/
+.idea/
+.vs/
+
+# OS auto-generated
+.DS_Store
+Thumbs.db
+
+# Unity package bundles (huge files)
+*.unitypackage
+
+# Unity / GitHub log files
+*.log
+*.prev.log
+
